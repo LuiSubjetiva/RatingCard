@@ -11,7 +11,8 @@
     display:flex;
     justify-content: center;
     align-items: center;
-    background-color: hsl(216, 12%, 8%);
+    /* background-color: hsl(216, 12%, 8%); */
+    background-color:#ff0000;
     }
     main{
         width:300px;
